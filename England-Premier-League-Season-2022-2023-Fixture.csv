@@ -1,0 +1,381 @@
+Nation,League,Date,Month,Year,Home,Away
+England,Premier League,5,8,2022,Crystal Palace,Arsenal
+England,Premier League,6,8,2022,Bournemouth,Aston Villa
+England,Premier League,6,8,2022,Everton,Chelsea
+England,Premier League,6,8,2022,Fulham,Liverpool
+England,Premier League,6,8,2022,Leeds,Wolves
+England,Premier League,6,8,2022,Newcastle,Nottingham
+England,Premier League,6,8,2022,Tottenham,Southampton
+England,Premier League,7,8,2022,Leicester,Brentford
+England,Premier League,7,8,2022,Manchester Utd,Brighton
+England,Premier League,7,8,2022,West Ham,Manchester City
+England,Premier League,13,8,2022,Arsenal,Leicester
+England,Premier League,13,8,2022,Aston Villa,Everton
+England,Premier League,13,8,2022,Brentford,Manchester Utd
+England,Premier League,13,8,2022,Brighton,Newcastle
+England,Premier League,13,8,2022,Manchester City,Bournemouth
+England,Premier League,13,8,2022,Southampton,Leeds
+England,Premier League,13,8,2022,Wolves,Fulham
+England,Premier League,14,8,2022,Chelsea,Tottenham
+England,Premier League,14,8,2022,Nottingham,West Ham
+England,Premier League,15,8,2022,Liverpool,Crystal Palace
+England,Premier League,20,8,2022,Bournemouth,Arsenal
+England,Premier League,20,8,2022,Crystal Palace,Aston Villa
+England,Premier League,20,8,2022,Everton,Nottingham
+England,Premier League,20,8,2022,Fulham,Brentford
+England,Premier League,20,8,2022,Leicester,Southampton
+England,Premier League,20,8,2022,Tottenham,Wolves
+England,Premier League,21,8,2022,Leeds,Chelsea
+England,Premier League,21,8,2022,Newcastle,Manchester City
+England,Premier League,21,8,2022,West Ham,Brighton
+England,Premier League,22,8,2022,Manchester Utd,Liverpool
+England,Premier League,27,8,2022,Arsenal,Fulham
+England,Premier League,27,8,2022,Brentford,Everton
+England,Premier League,27,8,2022,Brighton,Leeds
+England,Premier League,27,8,2022,Chelsea,Leicester
+England,Premier League,27,8,2022,Liverpool,Bournemouth
+England,Premier League,27,8,2022,Manchester City,Crystal Palace
+England,Premier League,27,8,2022,Southampton,Manchester Utd
+England,Premier League,28,8,2022,Aston Villa,West Ham
+England,Premier League,28,8,2022,Nottingham,Tottenham
+England,Premier League,28,8,2022,Wolves,Newcastle
+England,Premier League,30,8,2022,Crystal Palace,Brentford
+England,Premier League,30,8,2022,Fulham,Brighton
+England,Premier League,30,8,2022,Leeds,Everton
+England,Premier League,30,8,2022,Southampton,Chelsea
+England,Premier League,31,8,2022,Arsenal,Aston Villa
+England,Premier League,31,8,2022,Bournemouth,Wolves
+England,Premier League,31,8,2022,Liverpool,Newcastle
+England,Premier League,31,8,2022,Manchester City,Nottingham
+England,Premier League,31,8,2022,West Ham,Tottenham
+England,Premier League,3,9,2022,Aston Villa,Manchester City
+England,Premier League,3,9,2022,Brentford,Leeds
+England,Premier League,3,9,2022,Everton,Liverpool
+England,Premier League,3,9,2022,Newcastle,Crystal Palace
+England,Premier League,3,9,2022,Nottingham,Bournemouth
+England,Premier League,3,9,2022,Tottenham,Fulham
+England,Premier League,3,9,2022,Wolves,Southampton
+England,Premier League,4,9,2022,Brighton,Leicester
+England,Premier League,4,9,2022,Chelsea,West Ham
+England,Premier League,4,9,2022,Manchester Utd,Arsenal
+England,Premier League,10,9,2022,Bournemouth,Brighton
+England,Premier League,10,9,2022,Fulham,Chelsea
+England,Premier League,10,9,2022,Leicester,Aston Villa
+England,Premier League,10,9,2022,Liverpool,Wolves
+England,Premier League,10,9,2022,Manchester City,Tottenham
+England,Premier League,10,9,2022,Southampton,Brentford
+England,Premier League,11,9,2022,Arsenal,Everton
+England,Premier League,11,9,2022,Crystal Palace,Manchester Utd
+England,Premier League,11,9,2022,West Ham,Newcastle
+England,Premier League,12,9,2022,Leeds,Nottingham
+England,Premier League,16,9,2022,Aston Villa,Southampton
+England,Premier League,16,9,2022,Nottingham,Fulham
+England,Premier League,17,9,2022,Brighton,Crystal Palace
+England,Premier League,17,9,2022,Everton,West Ham
+England,Premier League,17,9,2022,Newcastle,Bournemouth
+England,Premier League,17,9,2022,Tottenham,Leicester
+England,Premier League,17,9,2022,Wolves,Manchester City
+England,Premier League,18,9,2022,Brentford,Arsenal
+England,Premier League,18,9,2022,Chelsea,Liverpool
+England,Premier League,18,9,2022,Manchester Utd,Leeds
+England,Premier League,29,9,2022,Leicester,Manchester Utd
+England,Premier League,1,10,2022,Arsenal,Tottenham
+England,Premier League,1,10,2022,Bournemouth,Brentford
+England,Premier League,1,10,2022,Crystal Palace,Chelsea
+England,Premier League,1,10,2022,Fulham,Newcastle
+England,Premier League,1,10,2022,Leeds,Aston Villa
+England,Premier League,1,10,2022,Leicester,Nottingham
+England,Premier League,1,10,2022,Liverpool,Brighton
+England,Premier League,1,10,2022,Manchester City,Manchester Utd
+England,Premier League,1,10,2022,Southampton,Everton
+England,Premier League,1,10,2022,West Ham,Wolves
+England,Premier League,8,10,2022,Arsenal,Liverpool
+England,Premier League,8,10,2022,Bournemouth,Leicester
+England,Premier League,8,10,2022,Brighton,Tottenham
+England,Premier League,8,10,2022,Chelsea,Wolves
+England,Premier League,8,10,2022,Crystal Palace,Leeds
+England,Premier League,8,10,2022,Everton,Manchester Utd
+England,Premier League,8,10,2022,Manchester City,Southampton
+England,Premier League,8,10,2022,Newcastle,Brentford
+England,Premier League,8,10,2022,Nottingham,Aston Villa
+England,Premier League,8,10,2022,West Ham,Fulham
+England,Premier League,15,10,2022,Aston Villa,Chelsea
+England,Premier League,15,10,2022,Brentford,Brighton
+England,Premier League,15,10,2022,Fulham,Bournemouth
+England,Premier League,15,10,2022,Leeds,Arsenal
+England,Premier League,15,10,2022,Leicester,Crystal Palace
+England,Premier League,15,10,2022,Liverpool,Manchester City
+England,Premier League,15,10,2022,Manchester Utd,Newcastle
+England,Premier League,15,10,2022,Southampton,West Ham
+England,Premier League,15,10,2022,Tottenham,Everton
+England,Premier League,15,10,2022,Wolves,Nottingham
+England,Premier League,18,10,2022,Arsenal,Manchester City
+England,Premier League,18,10,2022,Bournemouth,Southampton
+England,Premier League,18,10,2022,Brentford,Chelsea
+England,Premier League,18,10,2022,Brighton,Nottingham
+England,Premier League,18,10,2022,Crystal Palace,Wolves
+England,Premier League,18,10,2022,Fulham,Aston Villa
+England,Premier League,18,10,2022,Leicester,Leeds
+England,Premier League,19,10,2022,Liverpool,West Ham
+England,Premier League,19,10,2022,Manchester Utd,Tottenham
+England,Premier League,19,10,2022,Newcastle,Everton
+England,Premier League,22,10,2022,Aston Villa,Brentford
+England,Premier League,22,10,2022,Chelsea,Manchester Utd
+England,Premier League,22,10,2022,Everton,Crystal Palace
+England,Premier League,22,10,2022,Leeds,Fulham
+England,Premier League,22,10,2022,Manchester City,Brighton
+England,Premier League,22,10,2022,Nottingham,Liverpool
+England,Premier League,22,10,2022,Southampton,Arsenal
+England,Premier League,22,10,2022,Tottenham,Newcastle
+England,Premier League,22,10,2022,West Ham,Bournemouth
+England,Premier League,22,10,2022,Wolves,Leicester
+England,Premier League,29,10,2022,Arsenal,Nottingham
+England,Premier League,29,10,2022,Bournemouth,Tottenham
+England,Premier League,29,10,2022,Brentford,Wolves
+England,Premier League,29,10,2022,Brighton,Chelsea
+England,Premier League,29,10,2022,Crystal Palace,Southampton
+England,Premier League,29,10,2022,Fulham,Everton
+England,Premier League,29,10,2022,Leicester,Manchester City
+England,Premier League,29,10,2022,Liverpool,Leeds
+England,Premier League,29,10,2022,Manchester Utd,West Ham
+England,Premier League,29,10,2022,Newcastle,Aston Villa
+England,Premier League,5,11,2022,Aston Villa,Manchester Utd
+England,Premier League,5,11,2022,Chelsea,Arsenal
+England,Premier League,5,11,2022,Everton,Leicester
+England,Premier League,5,11,2022,Leeds,Bournemouth
+England,Premier League,5,11,2022,Manchester City,Fulham
+England,Premier League,5,11,2022,Nottingham,Brentford
+England,Premier League,5,11,2022,Southampton,Newcastle
+England,Premier League,5,11,2022,Tottenham,Liverpool
+England,Premier League,5,11,2022,West Ham,Crystal Palace
+England,Premier League,5,11,2022,Wolves,Brighton
+England,Premier League,12,11,2022,Bournemouth,Everton
+England,Premier League,12,11,2022,Brighton,Aston Villa
+England,Premier League,12,11,2022,Fulham,Manchester Utd
+England,Premier League,12,11,2022,Liverpool,Southampton
+England,Premier League,12,11,2022,Manchester City,Brentford
+England,Premier League,12,11,2022,Newcastle,Chelsea
+England,Premier League,12,11,2022,Nottingham,Crystal Palace
+England,Premier League,12,11,2022,Tottenham,Leeds
+England,Premier League,12,11,2022,West Ham,Leicester
+England,Premier League,12,11,2022,Wolves,Arsenal
+England,Premier League,26,12,2022,Arsenal,West Ham
+England,Premier League,26,12,2022,Aston Villa,Liverpool
+England,Premier League,26,12,2022,Brentford,Tottenham
+England,Premier League,26,12,2022,Chelsea,Bournemouth
+England,Premier League,26,12,2022,Crystal Palace,Fulham
+England,Premier League,26,12,2022,Everton,Wolves
+England,Premier League,26,12,2022,Leeds,Manchester City
+England,Premier League,26,12,2022,Leicester,Newcastle
+England,Premier League,26,12,2022,Manchester Utd,Nottingham
+England,Premier League,26,12,2022,Southampton,Brighton
+England,Premier League,31,12,2022,Bournemouth,Crystal Palace
+England,Premier League,31,12,2022,Brighton,Arsenal
+England,Premier League,31,12,2022,Fulham,Southampton
+England,Premier League,31,12,2022,Liverpool,Leicester
+England,Premier League,31,12,2022,Manchester City,Everton
+England,Premier League,31,12,2022,Newcastle,Leeds
+England,Premier League,31,12,2022,Nottingham,Chelsea
+England,Premier League,31,12,2022,Tottenham,Aston Villa
+England,Premier League,31,12,2022,West Ham,Brentford
+England,Premier League,31,12,2022,Wolves,Manchester Utd
+England,Premier League,2,1,2023,Arsenal,Newcastle
+England,Premier League,2,1,2023,Aston Villa,Wolves
+England,Premier League,2,1,2023,Brentford,Liverpool
+England,Premier League,2,1,2023,Chelsea,Manchester City
+England,Premier League,2,1,2023,Crystal Palace,Tottenham
+England,Premier League,2,1,2023,Everton,Brighton
+England,Premier League,2,1,2023,Leeds,West Ham
+England,Premier League,2,1,2023,Leicester,Fulham
+England,Premier League,2,1,2023,Manchester Utd,Bournemouth
+England,Premier League,2,1,2023,Southampton,Nottingham
+England,Premier League,14,1,2023,Aston Villa,Leeds
+England,Premier League,14,1,2023,Brentford,Bournemouth
+England,Premier League,14,1,2023,Brighton,Liverpool
+England,Premier League,14,1,2023,Chelsea,Crystal Palace
+England,Premier League,14,1,2023,Everton,Southampton
+England,Premier League,14,1,2023,Manchester Utd,Manchester City
+England,Premier League,14,1,2023,Newcastle,Fulham
+England,Premier League,14,1,2023,Nottingham,Leicester
+England,Premier League,14,1,2023,Tottenham,Arsenal
+England,Premier League,14,1,2023,Wolves,West Ham
+England,Premier League,21,1,2023,Arsenal,Manchester Utd
+England,Premier League,21,1,2023,Bournemouth,Nottingham
+England,Premier League,21,1,2023,Crystal Palace,Newcastle
+England,Premier League,21,1,2023,Fulham,Tottenham
+England,Premier League,21,1,2023,Leeds,Brentford
+England,Premier League,21,1,2023,Leicester,Brighton
+England,Premier League,21,1,2023,Liverpool,Chelsea
+England,Premier League,21,1,2023,Manchester City,Wolves
+England,Premier League,21,1,2023,Southampton,Aston Villa
+England,Premier League,21,1,2023,West Ham,Everton
+England,Premier League,4,2,2023,Aston Villa,Leicester
+England,Premier League,4,2,2023,Brentford,Southampton
+England,Premier League,4,2,2023,Brighton,Bournemouth
+England,Premier League,4,2,2023,Chelsea,Fulham
+England,Premier League,4,2,2023,Everton,Arsenal
+England,Premier League,4,2,2023,Manchester Utd,Crystal Palace
+England,Premier League,4,2,2023,Newcastle,West Ham
+England,Premier League,4,2,2023,Nottingham,Leeds
+England,Premier League,4,2,2023,Tottenham,Manchester City
+England,Premier League,4,2,2023,Wolves,Liverpool
+England,Premier League,11,2,2023,Arsenal,Brentford
+England,Premier League,11,2,2023,Bournemouth,Newcastle
+England,Premier League,11,2,2023,Crystal Palace,Brighton
+England,Premier League,11,2,2023,Fulham,Nottingham
+England,Premier League,11,2,2023,Leeds,Manchester Utd
+England,Premier League,11,2,2023,Leicester,Tottenham
+England,Premier League,11,2,2023,Liverpool,Everton
+England,Premier League,11,2,2023,Manchester City,Aston Villa
+England,Premier League,11,2,2023,Southampton,Wolves
+England,Premier League,11,2,2023,West Ham,Chelsea
+England,Premier League,18,2,2023,Aston Villa,Arsenal
+England,Premier League,18,2,2023,Brentford,Crystal Palace
+England,Premier League,18,2,2023,Brighton,Fulham
+England,Premier League,18,2,2023,Chelsea,Southampton
+England,Premier League,18,2,2023,Everton,Leeds
+England,Premier League,18,2,2023,Manchester Utd,Leicester
+England,Premier League,18,2,2023,Newcastle,Liverpool
+England,Premier League,18,2,2023,Nottingham,Manchester City
+England,Premier League,18,2,2023,Tottenham,West Ham
+England,Premier League,18,2,2023,Wolves,Bournemouth
+England,Premier League,25,2,2023,Bournemouth,Manchester City
+England,Premier League,25,2,2023,Crystal Palace,Liverpool
+England,Premier League,25,2,2023,Everton,Aston Villa
+England,Premier League,25,2,2023,Fulham,Wolves
+England,Premier League,25,2,2023,Leeds,Southampton
+England,Premier League,25,2,2023,Leicester,Arsenal
+England,Premier League,25,2,2023,Manchester Utd,Brentford
+England,Premier League,25,2,2023,Newcastle,Brighton
+England,Premier League,25,2,2023,Tottenham,Chelsea
+England,Premier League,25,2,2023,West Ham,Nottingham
+England,Premier League,4,3,2023,Arsenal,Bournemouth
+England,Premier League,4,3,2023,Aston Villa,Crystal Palace
+England,Premier League,4,3,2023,Brentford,Fulham
+England,Premier League,4,3,2023,Brighton,West Ham
+England,Premier League,4,3,2023,Chelsea,Leeds
+England,Premier League,4,3,2023,Liverpool,Manchester Utd
+England,Premier League,4,3,2023,Manchester City,Newcastle
+England,Premier League,4,3,2023,Nottingham,Everton
+England,Premier League,4,3,2023,Southampton,Leicester
+England,Premier League,4,3,2023,Wolves,Tottenham
+England,Premier League,11,3,2023,Bournemouth,Liverpool
+England,Premier League,11,3,2023,Crystal Palace,Manchester City
+England,Premier League,11,3,2023,Everton,Brentford
+England,Premier League,11,3,2023,Fulham,Arsenal
+England,Premier League,11,3,2023,Leeds,Brighton
+England,Premier League,11,3,2023,Leicester,Chelsea
+England,Premier League,11,3,2023,Manchester Utd,Southampton
+England,Premier League,11,3,2023,Newcastle,Wolves
+England,Premier League,11,3,2023,Tottenham,Nottingham
+England,Premier League,11,3,2023,West Ham,Aston Villa
+England,Premier League,18,3,2023,Arsenal,Crystal Palace
+England,Premier League,18,3,2023,Aston Villa,Bournemouth
+England,Premier League,18,3,2023,Brentford,Leicester
+England,Premier League,18,3,2023,Brighton,Manchester Utd
+England,Premier League,18,3,2023,Chelsea,Everton
+England,Premier League,18,3,2023,Liverpool,Fulham
+England,Premier League,18,3,2023,Manchester City,West Ham
+England,Premier League,18,3,2023,Nottingham,Newcastle
+England,Premier League,18,3,2023,Southampton,Tottenham
+England,Premier League,18,3,2023,Wolves,Leeds
+England,Premier League,1,4,2023,Arsenal,Leeds
+England,Premier League,1,4,2023,Bournemouth,Fulham
+England,Premier League,1,4,2023,Brighton,Brentford
+England,Premier League,1,4,2023,Chelsea,Aston Villa
+England,Premier League,1,4,2023,Crystal Palace,Leicester
+England,Premier League,1,4,2023,Everton,Tottenham
+England,Premier League,1,4,2023,Manchester City,Liverpool
+England,Premier League,1,4,2023,Newcastle,Manchester Utd
+England,Premier League,1,4,2023,Nottingham,Wolves
+England,Premier League,1,4,2023,West Ham,Southampton
+England,Premier League,8,4,2023,Aston Villa,Nottingham
+England,Premier League,8,4,2023,Brentford,Newcastle
+England,Premier League,8,4,2023,Fulham,West Ham
+England,Premier League,8,4,2023,Leeds,Crystal Palace
+England,Premier League,8,4,2023,Leicester,Bournemouth
+England,Premier League,8,4,2023,Liverpool,Arsenal
+England,Premier League,8,4,2023,Manchester Utd,Everton
+England,Premier League,8,4,2023,Southampton,Manchester City
+England,Premier League,8,4,2023,Tottenham,Brighton
+England,Premier League,8,4,2023,Wolves,Chelsea
+England,Premier League,15,4,2023,Aston Villa,Newcastle
+England,Premier League,15,4,2023,Chelsea,Brighton
+England,Premier League,15,4,2023,Everton,Fulham
+England,Premier League,15,4,2023,Leeds,Liverpool
+England,Premier League,15,4,2023,Manchester City,Leicester
+England,Premier League,15,4,2023,Nottingham,Manchester Utd
+England,Premier League,15,4,2023,Southampton,Crystal Palace
+England,Premier League,15,4,2023,Tottenham,Bournemouth
+England,Premier League,15,4,2023,West Ham,Arsenal
+England,Premier League,15,4,2023,Wolves,Brentford
+England,Premier League,22,4,2023,Arsenal,Southampton
+England,Premier League,22,4,2023,Bournemouth,West Ham
+England,Premier League,22,4,2023,Brentford,Aston Villa
+England,Premier League,22,4,2023,Brighton,Manchester City
+England,Premier League,22,4,2023,Crystal Palace,Everton
+England,Premier League,22,4,2023,Fulham,Leeds
+England,Premier League,22,4,2023,Leicester,Wolves
+England,Premier League,22,4,2023,Liverpool,Nottingham
+England,Premier League,22,4,2023,Manchester Utd,Chelsea
+England,Premier League,22,4,2023,Newcastle,Tottenham
+England,Premier League,25,4,2023,Aston Villa,Fulham
+England,Premier League,25,4,2023,Everton,Newcastle
+England,Premier League,25,4,2023,Leeds,Leicester
+England,Premier League,25,4,2023,Nottingham,Brighton
+England,Premier League,25,4,2023,Tottenham,Manchester Utd
+England,Premier League,25,4,2023,West Ham,Liverpool
+England,Premier League,25,4,2023,Wolves,Crystal Palace
+England,Premier League,26,4,2023,Chelsea,Brentford
+England,Premier League,26,4,2023,Manchester City,Arsenal
+England,Premier League,26,4,2023,Southampton,Bournemouth
+England,Premier League,29,4,2023,Arsenal,Chelsea
+England,Premier League,29,4,2023,Bournemouth,Leeds
+England,Premier League,29,4,2023,Brentford,Nottingham
+England,Premier League,29,4,2023,Brighton,Wolves
+England,Premier League,29,4,2023,Crystal Palace,West Ham
+England,Premier League,29,4,2023,Fulham,Manchester City
+England,Premier League,29,4,2023,Leicester,Everton
+England,Premier League,29,4,2023,Liverpool,Tottenham
+England,Premier League,29,4,2023,Manchester Utd,Aston Villa
+England,Premier League,29,4,2023,Newcastle,Southampton
+England,Premier League,6,5,2023,Bournemouth,Chelsea
+England,Premier League,6,5,2023,Brighton,Everton
+England,Premier League,6,5,2023,Fulham,Leicester
+England,Premier League,6,5,2023,Liverpool,Brentford
+England,Premier League,6,5,2023,Manchester City,Leeds
+England,Premier League,6,5,2023,Newcastle,Arsenal
+England,Premier League,6,5,2023,Nottingham,Southampton
+England,Premier League,6,5,2023,Tottenham,Crystal Palace
+England,Premier League,6,5,2023,West Ham,Manchester Utd
+England,Premier League,6,5,2023,Wolves,Aston Villa
+England,Premier League,13,5,2023,Arsenal,Brighton
+England,Premier League,13,5,2023,Aston Villa,Tottenham
+England,Premier League,13,5,2023,Brentford,West Ham
+England,Premier League,13,5,2023,Chelsea,Nottingham
+England,Premier League,13,5,2023,Crystal Palace,Bournemouth
+England,Premier League,13,5,2023,Everton,Manchester City
+England,Premier League,13,5,2023,Leeds,Newcastle
+England,Premier League,13,5,2023,Leicester,Liverpool
+England,Premier League,13,5,2023,Manchester Utd,Wolves
+England,Premier League,13,5,2023,Southampton,Fulham
+England,Premier League,20,5,2023,Bournemouth,Manchester Utd
+England,Premier League,20,5,2023,Brighton,Southampton
+England,Premier League,20,5,2023,Fulham,Crystal Palace
+England,Premier League,20,5,2023,Liverpool,Aston Villa
+England,Premier League,20,5,2023,Manchester City,Chelsea
+England,Premier League,20,5,2023,Newcastle,Leicester
+England,Premier League,20,5,2023,Nottingham,Arsenal
+England,Premier League,20,5,2023,Tottenham,Brentford
+England,Premier League,20,5,2023,West Ham,Leeds
+England,Premier League,20,5,2023,Wolves,Everton
+England,Premier League,28,5,2023,Arsenal,Wolves
+England,Premier League,28,5,2023,Aston Villa,Brighton
+England,Premier League,28,5,2023,Brentford,Manchester City
+England,Premier League,28,5,2023,Chelsea,Newcastle
+England,Premier League,28,5,2023,Crystal Palace,Nottingham
+England,Premier League,28,5,2023,Everton,Bournemouth
+England,Premier League,28,5,2023,Leeds,Tottenham
+England,Premier League,28,5,2023,Leicester,West Ham
+England,Premier League,28,5,2023,Manchester Utd,Fulham
+England,Premier League,28,5,2023,Southampton,Liverpool
