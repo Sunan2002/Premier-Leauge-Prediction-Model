@@ -16,3 +16,6 @@ We are using XGBoost for preprocessing, and we plan to use simple logistic regre
 the prior season, and we will decide how to go about using the existing data from the current season for either training, validation, or testing in 
 a way that makes the most sense. Our algorithm, if successful, could be used to calculate Vegas odds for sports betting companies, and it could also 
 be modified to help value teams/players based on past performances when trying to determine one's value for tranfer fees.
+
+We setup an XGBoost object with our existing dataset, and also tested a neural network from sklearn with a few randomly selected single features (none of 
+which made particularly good sense in the context of the problem) and we were able to get a good framework for neural network training going to use and improve in the future.
