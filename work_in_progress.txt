@@ -1,0 +1,15 @@
+Main problem to solve:
+We are going to attempt to predict the outcome of future English Premier League soccer games in the 
+2022-2023 season based on data from the 2021-2022, as well as previous matches from the 2022-2023 season.
+
+Description of dataset, and how you will you obtain it:
+Datasets for EPL 2021-2022 and 2022-2023 seaons downloaded from the web, with in depth stats for every game
+played, from which we will choose and analyze different combinations of features for our prediction models.
+
+Hypothesis:
+The outcome of unplayed Engish Premier League matches can be predicted with an accuracy of greater than 50%
+using data from earlier in the season, as well as data from the prior season.
+
+Data Mining and/or Machine Learning methods you plan to use (and why) What business applications do you think your findings will have?
+Our algorithm, if successful, could be used to calculate Vegas odds for sports betting, and it could also be used to value teams/players
+based on past performances.
