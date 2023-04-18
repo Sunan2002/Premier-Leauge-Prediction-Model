@@ -1,3 +1,7 @@
+Jeff Rathgeber
+Sunan Tajwar
+Mining Massive Datasets
+
 Main problem to solve:
 We are going to attempt to predict the outcome of future English Premier League soccer games in the 
 2022-2023 season based on data from the 2021-2022, as well as previous matches from the 2022-2023 season.
